@@ -1036,6 +1036,8 @@ int main()
     static l transactio_id = 900;
 
 
+    //here I provide some testcase then comes user input program
+    
     cout << endl << endl << endl << "*****************************WELCOME TO FAM JAM SUPERMARKET*********************************" << endl << endl << endl;
 
 
